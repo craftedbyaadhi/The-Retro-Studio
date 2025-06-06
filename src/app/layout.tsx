@@ -19,7 +19,7 @@ const ppNeueMontreal = localFont({
 })
 
 export const metadata: Metadata = {
-    title: 'The Rétro Studio',
+    title: 'The Rétro Studio - A house of artistry, engineering, and timeless expression',
     description: 'A house of artistry, engineering, and timeless expression',
 }
 
