@@ -26,7 +26,7 @@ export default function Home() {
                             {`This realm is still unfolding — pixel by pixel, spell by spell. Each line hums with quiet intention, alive with unseen magic. Beneath the surface, something stirs — ancient, deliberate. And whether by fate or design, the key will find its way to you`}{' '}
                             <Link
                                 href="/"
-                                className="bg-gradient-to-b from-[#FFD700] to-[#FF8A14] bg-clip-text text-transparent underline"
+                                className="bg-gradient-to-b from-[#FFD700] to-[#fc8712] bg-clip-text text-transparent underline"
                                 aria-label="Discover the key"
                             >
                                 soon.
